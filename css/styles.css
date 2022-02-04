@@ -1,0 +1,12 @@
+body {
+margin: auto;
+width: 100%;
+max-width: 1000px;
+background-image: url("/images/logo.jpg");
+font-family: 'papyrus', bold;
+	font-size:125%;
+	line-height: 150%;
+	background-attachment: fixed;
+background-size: cover;
+color:white;
+}
